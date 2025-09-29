@@ -1,6 +1,6 @@
 ---
-mode: edit
+mode: agent
 ---
-Dada una función o colección de funciones, buscaras los casos extremos y añadirás tests unitarios que validen el correcto funcionamiento de la función.
+Given a function or collection of functions, you will look for edge cases and add unit tests that validate the correct functioning of the function.
 
-Los docstrings de estos tests incluirán ejemplos de esos usos extremos y los potenciales errores haciendo referencia a hilos de stackoverflow donde sucede algo similar.
+The docstrings of these tests will include examples of those edge cases and potential errors, making reference to Stack Overflow threads where something similar happens.
