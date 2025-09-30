@@ -1,7 +1,5 @@
-def saluda():
+def suma(a, b):
+    return a + b
 
-    print("Hello world!")
-
-if __name__ == "__main__":
-
-    saluda()
+def resta(a, b):
+    return a - b
